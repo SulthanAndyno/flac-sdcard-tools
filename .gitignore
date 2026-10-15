@@ -1,0 +1,9 @@
+*.flac
+*.lrc
+*.jpg
+*.png
+songs/
+library/
+done/
+no-lyrics/
+covers/
